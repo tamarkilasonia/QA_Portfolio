@@ -1,4 +1,4 @@
-🐞 Bug Reports – Summary
+ Bug Reports – Summary
 
 This folder contains structured, anonymized and professionally formatted bug reports identified during manual testing of web and mobile applications. All reports follow consistent QA documentation standards and demonstrate clear defect analysis, reproducible steps and a strong understanding of expected versus actual system behavior.
 
@@ -10,7 +10,7 @@ The goal of this collection is to showcase:
 • Capability to test both mobile and desktop platforms  
 • Awareness of user impact and potential business risk caused by defects  
 
-🧰 Tools Used
+ Tools Used
 • Jira – Bug management and defect tracking  
 • Qase – Test case linkage and traceability  
 • Chrome DevTools – Debugging and network inspection  
@@ -19,7 +19,7 @@ The goal of this collection is to showcase:
 • Figma – UI/UX comparison and design verification  
 • HTML/CSS Inspector – Layout and component analysis  
 
-🎯 QA Skills Demonstrated
+QA Skills Demonstrated
 • Functional Testing  
 • UI/UX Testing  
 • Responsive Testing  
@@ -32,6 +32,6 @@ The goal of this collection is to showcase:
 • Clear Expected vs Actual Analysis  
 • Retesting and Fix Verification  
 
-🔒 NDA Notice
+ NDA Notice
 
 All reports are fully anonymized. Real brand names, URLs and sensitive client assets were removed or replaced in accordance with NDA requirements. The focus of this collection is strictly on testing logic, QA methodologies and professional defect documentation practices.

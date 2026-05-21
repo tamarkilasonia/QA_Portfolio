@@ -36,6 +36,6 @@ Test scenarios are used to:
 
 ---
 
-🔒 NDA Notice
+ NDA Notice
 
 All test scenarios are fully anonymized. Real brand names, URLs and sensitive client assets were removed or replaced in accordance with NDA requirements. Only testing logic, structure and QA methodology are presented.

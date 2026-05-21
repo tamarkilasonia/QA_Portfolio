@@ -1,4 +1,4 @@
-# 📚 Learning Path
+#  Learning Path
 
 This folder documents my continuous learning journey as a QA Tester.
 
@@ -6,7 +6,7 @@ It includes notes, mini-projects, and certifications that reflect my progress an
 
 ---
 
-### 🎓 Topics Covered
+###  Topics Covered
 
 - Software Testing Fundamentals (SDLC, STLC)
 - Test Case Design Techniques
@@ -19,7 +19,7 @@ It includes notes, mini-projects, and certifications that reflect my progress an
 
 ---
 
-### 🧩 Included Files
+###  Included Files
 
 | File | Description |
 |------|--------------|
@@ -29,4 +29,4 @@ It includes notes, mini-projects, and certifications that reflect my progress an
 
 ---
 
-📄 *All materials are original learning notes and study references.*
+ *All materials are original learning notes and study references.*

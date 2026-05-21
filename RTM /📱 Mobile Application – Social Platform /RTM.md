@@ -34,7 +34,7 @@ The RTM ensures that:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Jira – bug tracking and defect linkage  
 - Android Studio Emulator – device and OS testing  

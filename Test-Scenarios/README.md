@@ -1,4 +1,4 @@
-# 🎬 Test Scenarios – Summary
+#  Test Scenarios – Summary
 
 This folder contains high-level test scenarios that describe real user journeys across the e-commerce platform under realistic usage conditions.
 
@@ -14,7 +14,7 @@ Scenarios are designed to verify that:
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 Test scenarios are used to:
 • Validate real end-to-end user flows  
@@ -25,7 +25,7 @@ Test scenarios are used to:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 • Google Docs / Notion – Scenario documentation  
 • Qase – Linking scenarios with test cases  

@@ -6,8 +6,8 @@ This portfolio demonstrates my hands-on experience in testing real-world web, mo
 
 ## Portfolio Highlights
 
-- 25+ Test Cases (functional and edge scenarios)
-- 15+ Bug Reports with clear reproduction steps
+- 200+ Test Cases (functional and edge scenarios)
+- 150+ Bug Reports with clear reproduction steps
 - RTM (Requirement Traceability Matrix) for coverage validation
 - API Testing using Postman (status codes, JSON validation)
 - Real-world Case Studies (E-commerce and AI-based systems)
